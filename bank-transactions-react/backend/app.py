@@ -6,7 +6,10 @@ import os
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'your-secret-key-here'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///bank_transactions.db'
+
+# Database configuration - SQLite database will persist data in bank_transactions.db file
+basedir = os.path.abspath(os.path.dirname(__file__))
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(basedir, 'bank_transactions.db')
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 CORS(app)  # Enable CORS for React frontend
