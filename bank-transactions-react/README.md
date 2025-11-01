@@ -2,14 +2,16 @@
 
 A modern React frontend with Flask backend for managing bank transactions.
 
+![Bank Transactions Application](screenshot.png)
+
 ## Features
 
-- ✅ Create bank transactions (deposits, withdrawals, transfers)
-- ✅ View all transactions
-- ✅ Update transactions
-- ✅ Delete transactions (hard delete)
-- ✅ Beautiful modern UI with React
-- ✅ Real-time balance calculation
+- Create bank transactions (deposits, withdrawals, transfers)
+- View all transactions
+- Update transactions
+- Delete transactions (hard delete)
+- Beautiful modern UI with React
+- Real-time balance calculation
 
 ## Project Structure
 
@@ -22,6 +24,7 @@ bank-transactions-react/
 ├── backend/          # Flask API
 │   ├── app.py        # Flask application
 │   └── requirements.txt
+├── screenshot.png    # Application screenshot
 └── README.md
 ```
 
@@ -75,9 +78,8 @@ The app will run on `http://localhost:5173` (or another port if 5173 is taken)
 ## Current Status
 
 This is the **basic CRUD version** without:
-- ❌ Soft Delete
-- ❌ Versioning
-- ❌ Activity Logging
+- Soft Delete
+- Versioning
+- Activity Logging
 
 These features will be added as enhancements!
-
