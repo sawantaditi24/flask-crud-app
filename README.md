@@ -5,12 +5,20 @@ This is a simple Flask CRUD (Create, Read, Update, Delete) application with a mo
 ## Features
 
 - Create new users
+<img width="587" height="943" alt="Screenshot 2025-10-31 at 6 56 46 PM" src="https://github.com/user-attachments/assets/7b9bac19-95f2-4f90-a7e1-d0443db09dc8" />
+
 - Read/View all users
+<img width="584" height="946" alt="Screenshot 2025-10-31 at 6 46 21 PM" src="https://github.com/user-attachments/assets/55cb38fe-bea8-47f2-bcf4-0ba7a30493cf" />
+
 - Update existing users
+<img width="588" height="947" alt="Screenshot 2025-10-31 at 6 53 19 PM" src="https://github.com/user-attachments/assets/53b3710c-29ea-4ee1-818a-7d8db7b6b3ab" />
+
 - Delete users (hard delete - permanently removes from database)
+<img width="1101" height="1017" alt="Screenshot 2025-10-31 at 6 54 10 PM" src="https://github.com/user-attachments/assets/7242f8fc-a8a2-4550-b8dc-81a8b45212f8" />
+
 - Beautiful, modern UI with gradients and animations
 
-<img width="584" height="946" alt="Screenshot 2025-10-31 at 6 46 21 PM" src="https://github.com/user-attachments/assets/55cb38fe-bea8-47f2-bcf4-0ba7a30493cf" />
+
 
 
 ## Installation
