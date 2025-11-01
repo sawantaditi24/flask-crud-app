@@ -10,6 +10,9 @@ This is a simple Flask CRUD (Create, Read, Update, Delete) application with a mo
 - Delete users (hard delete - permanently removes from database)
 - Beautiful, modern UI with gradients and animations
 
+<img width="584" height="946" alt="Screenshot 2025-10-31 at 6 46 21 PM" src="https://github.com/user-attachments/assets/55cb38fe-bea8-47f2-bcf4-0ba7a30493cf" />
+
+
 ## Installation
 
 1. Install dependencies:
