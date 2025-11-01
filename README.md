@@ -4,17 +4,11 @@ This is a simple Flask CRUD (Create, Read, Update, Delete) application with a mo
 
 ## Features
 
-- ✅ Create new users
-- ✅ Read/View all users
-- ✅ Update existing users
-- ✅ Delete users (hard delete - permanently removes from database)
-- ✅ Beautiful, modern UI with gradients and animations
-
-## What This Application Does NOT Have
-
-- ❌ Soft Delete (records are permanently deleted)
-- ❌ Versioning/Change tracking
-- ❌ Activity Logging
+- Create new users
+- Read/View all users
+- Update existing users
+- Delete users (hard delete - permanently removes from database)
+- Beautiful, modern UI with gradients and animations
 
 ## Installation
 
